@@ -29,4 +29,9 @@ public class DateTimeMeuk {
             System.out.println("achter "+i);
         }
     }
+    public LocalDate addDays(LocalDate date2) { //snap niet hoe aan te spreken?
+        date2.now().plusDays(5);
+        System.out.println("date2 :" + date2);
+        return date2;
+    }
 }
