@@ -18,8 +18,8 @@ public class DateTimeMeuk {
 
         date1=date1.plusDays(2);
         System.out.println("date1 + 2 dagen: "+date1);
-        date1=date1.plusWeeks(2);
-        System.out.println("date1 + 2 weken: "+date1);
+        date1=date1.minusWeeks(2);
+        System.out.println("date1 - 2 weken: "+date1);
         date1=date1.plusMonths(2);
         System.out.println("date1 + 2 maanden: "+date1);
 
