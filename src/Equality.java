@@ -3,10 +3,9 @@ public class Equality {
         Person a = new Person(3500);
         Person b = new Person(3500);
 
-        if(a.equals(b)){
+        if (a.equals(b)) {
             System.out.println("A is semantisch gelijk aan B");
-        }
-        else {
+        } else {
             System.out.println("A is NIET semantisch gelijk aan B");
         }
     }
