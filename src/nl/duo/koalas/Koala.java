@@ -1,3 +1,5 @@
+package nl.duo.koalas;
+
 public class Koala {
     public static int count = 1;
 
