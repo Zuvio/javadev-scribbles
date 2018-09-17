@@ -6,7 +6,7 @@ public class Person {
         this.sal = sal;
     }
 
-    public boolean equals(Object o) {
+    public boolean equals(Object o) { //moet Object zijn en geen Person! Want equals zit al in Object
         if (o instanceof Person) {
             Person andere = (Person) o;
 
