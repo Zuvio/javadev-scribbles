@@ -1,0 +1,20 @@
+1   G //A+D kunt geen int aan een String toewijzen en dat gebeurt hier wel
+2   A+C // D
+3   B+C+E
+4   B abbaccca
+5   B // F kan niet String met Sb vergelijken   s1 == s2 compares references, equals compares content?
+6   A // B //the roars from roar() are ignored: not true, the Sb refers to itself so it appends
+7   B+D+E //doen B+D nog wel mee? ja! @ runtime wel  vergelijk met vraag 11!!!
+8   A+D // E ook want lege lijn
+9   C //string is immutable purr_two
+10  F //2cfalse
+11  E //index can not go back
+12  A //01+89-
+13  B //rum4
+14  A+C //avaJ
+15  E?
+16  D
+17  B+D+F
+18  A+C+D+F
+19  E
+20  D

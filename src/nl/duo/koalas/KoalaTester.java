@@ -1,7 +1,5 @@
 package nl.duo.koalas;
 
-import nl.duo.koalas.Koala;
-
 public class KoalaTester {
     public static void main(String[] args) {
         Koala.main(new String[0]);
