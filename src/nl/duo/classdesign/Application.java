@@ -9,7 +9,7 @@ public class Application {
         System.out.println(car.getMileage()+" km driven");
 
         Sportscar racer = new Sportscar();
-        racer.setSpeedOMeter(45.3);
+        racer.setSpeedOMeter(45.4);
             racer.turbo(3);
         System.out.println(racer.getSpeedOMeter()+"x harder!!! //geprint uit main()");
 
