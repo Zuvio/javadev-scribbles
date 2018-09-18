@@ -5,7 +5,7 @@ public class Sportscar extends Car {
 
     public double turbo(int turboboost){
         speedOMeter=speedOMeter*turboboost;
-        System.out.println(speedOMeter+"x harder!!! //geprint uit turbo()");
+        System.out.println("Turboboost: "+turboboost+"x harder!!! Speed is nu: "+speedOMeter+"km/u  //geprint uit turbo()");
         return speedOMeter;
     }
 

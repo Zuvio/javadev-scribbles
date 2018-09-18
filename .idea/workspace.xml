@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b1fdf4d-43b8-4b35-a42f-b4f273e71d9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kladjes/chapter3vragen" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nl/duo/classdesign/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nl/duo/classdesign/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nl/duo/classdesign/Sportscar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nl/duo/statics/Static.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nl/duo/airplanes/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nl/duo/airplanes/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nl/duo/koalas/KoalaTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nl/duo/koalas/KoalaTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nl/duo/classdesign/Sportscar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nl/duo/classdesign/Sportscar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,13 +44,13 @@
         <counts>
           <entry key="chapter3vragen" value="699" />
           <entry key="dummy" value="2" />
-          <entry key="java" value="5873" />
+          <entry key="java" value="5910" />
           <entry key="txt" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5873" />
+          <entry key="JAVA" value="5910" />
           <entry key="PLAIN_TEXT" value="742" />
         </counts>
       </usages-collector>
@@ -76,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nl/duo/classdesign/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -98,14 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nl/duo/classdesign/Sportscar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="95" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -147,8 +134,8 @@
         <option value="$PROJECT_DIR$/src/kladjes/chapter3vragen" />
         <option value="$PROJECT_DIR$/src/nl/duo/airplanes/Application.java" />
         <option value="$PROJECT_DIR$/src/nl/duo/classdesign/Car.java" />
-        <option value="$PROJECT_DIR$/src/nl/duo/classdesign/Sportscar.java" />
         <option value="$PROJECT_DIR$/src/nl/duo/classdesign/Application.java" />
+        <option value="$PROJECT_DIR$/src/nl/duo/classdesign/Sportscar.java" />
       </list>
     </option>
   </component>
@@ -224,7 +211,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537271340539" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537271616948" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
@@ -405,7 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1537183074653</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Daebak">
+      <created>1537271303585</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537271303585</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Daebak">
+      <created>1537271385272</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1537271385272</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -438,7 +439,7 @@
       <window_info anchor="bottom" id="Structure" order="9" weight="0.2496454" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49798658" weight="0.20567375" />
-      <window_info active="true" anchor="bottom" x="1096" y="30" width="440" height="793" id="Run" order="12" sideWeight="0.5053691" side_tool="true" visible="true" weight="0.16879432" />
+      <window_info active="true" anchor="bottom" x="1096" y="30" width="440" height="793" id="Run" order="12" sideWeight="0.5053691" side_tool="true" visible="true" weight="0.26524824" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -631,6 +632,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/duo/classdesign/Sportscar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="95" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/nl/duo/classdesign/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -642,23 +650,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nl/duo/classdesign/Sportscar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nl/duo/classdesign/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
