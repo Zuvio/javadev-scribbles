@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b1fdf4d-43b8-4b35-a42f-b4f273e71d9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nl/duo/abstractdesign/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nl/duo/abstractdesign/Fillable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nl/duo/abstractdesign/Motorbike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nl/duo/abstractdesign/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kladjes/Chapter2Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nl/duo/classdesign/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nl/duo/classdesign/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chibi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chibi.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,28 +32,28 @@
         <counts>
           <entry key="chapter3vragen" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="41" />
+          <entry key="java" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="41" />
+          <entry key="JAVA" value="42" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="chapter3vragen" value="699" />
-          <entry key="dummy" value="3" />
-          <entry key="java" value="7240" />
+          <entry key="dummy" value="18" />
+          <entry key="java" value="7964" />
           <entry key="txt" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7240" />
-          <entry key="PLAIN_TEXT" value="743" />
+          <entry key="JAVA" value="7964" />
+          <entry key="PLAIN_TEXT" value="758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -71,7 +68,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nl/duo/abstractdesign/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -92,8 +89,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nl/duo/abstractdesign/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="272">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kladjes/Chapter2Switch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -102,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/src/nl/duo/abstractdesign/Motorbike.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -112,8 +122,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -151,10 +161,13 @@
         <option value="$PROJECT_DIR$/src/nl/duo/classdesign/Application.java" />
         <option value="$PROJECT_DIR$/src/interfaces/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/interfaces/Car.java" />
-        <option value="$PROJECT_DIR$/src/nl/duo/abstractdesign/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/nl/duo/abstractdesign/Application.java" />
         <option value="$PROJECT_DIR$/src/nl/duo/abstractdesign/Fillable.java" />
         <option value="$PROJECT_DIR$/src/nl/duo/abstractdesign/Motorbike.java" />
+        <option value="$PROJECT_DIR$/src/nl/duo/abstractdesign/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/kladjes/Kladje.java" />
+        <option value="$PROJECT_DIR$/src/kladjes/Chapter2SwitchKladje.java" />
+        <option value="$PROJECT_DIR$/src/kladjes/Chapter2Switch.java" />
       </list>
     </option>
   </component>
@@ -198,36 +211,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kladjes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="chibi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chibi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chibi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chibi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractdesign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chibi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chibi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="airplanes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chibi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chibi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classdesign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chibi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chibi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="statics" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -236,7 +219,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537348626296" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537358716655" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
@@ -259,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application (2)">
+  <component name="RunManager" selected="JUnit.Chapter2Switch.getSortOrder">
     <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nl.duo.airplanes.Application" />
       <module name="chibi" />
@@ -299,19 +285,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Lambda" />
-      <module name="chibi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nl.duo.statics.Static" />
       <module name="chibi" />
@@ -325,20 +298,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter2Switch.getSortOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chibi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kladjes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kladjes" />
+      <option name="MAIN_CLASS_NAME" value="kladjes.Chapter2Switch" />
+      <option name="METHOD_NAME" value="getSortOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Application (1)" />
       <item itemvalue="Application.Static" />
-      <item itemvalue="Application.Lambda" />
       <item itemvalue="Application.Application" />
       <item itemvalue="Application.Application (2)" />
+      <item itemvalue="JUnit.Chapter2Switch.getSortOrder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Chapter2Switch.getSortOrder" />
         <item itemvalue="Application.Application (2)" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.Application (1)" />
         <item itemvalue="Application.Static" />
-        <item itemvalue="Application.Lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537280174619</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Daebak">
+      <created>1537348665017</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1537348665017</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -478,20 +474,20 @@
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.18926175" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.18926175" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.49463087" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Messages" order="5" sideWeight="0.49328858" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Favorites" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013423" side_tool="true" weight="0.2822695" />
       <window_info anchor="bottom" id="Structure" order="9" weight="0.2496454" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49798658" weight="0.20567375" />
-      <window_info anchor="bottom" x="1096" y="30" width="440" height="793" id="Run" order="12" sideWeight="0.5053691" side_tool="true" visible="true" weight="0.26524824" />
+      <window_info anchor="bottom" x="1096" y="30" width="440" height="793" id="Run" order="12" sideWeight="0.5067114" side_tool="true" visible="true" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -741,6 +737,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/duo/abstractdesign/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/nl/duo/abstractdesign/Fillable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -748,24 +751,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nl/duo/abstractdesign/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nl/duo/abstractdesign/Motorbike.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nl/duo/abstractdesign/Application.java">
+    <entry file="file://$PROJECT_DIR$/src/nl/duo/abstractdesign/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        <state relative-caret-position="272">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kladjes/Chapter2Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
         </state>
       </provider>
     </entry>
