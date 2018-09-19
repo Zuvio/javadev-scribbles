@@ -12,6 +12,5 @@ public class Application {
         racer.setSpeedOMeter(45.4);
             racer.turbo(3);
         System.out.println(racer.getSpeedOMeter()+"km/u!! Geen idee wat de turboboost is... //geprint uit main()");
-
     }
 }
