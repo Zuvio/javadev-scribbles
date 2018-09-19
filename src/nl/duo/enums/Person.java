@@ -12,11 +12,11 @@ public class Person {
         this.name = name;
     }
 
-    public Season getMyFavoriteSeason() {
+    Season getMyFavoriteSeason() {
         return myFavoriteSeason;
     }
 
-    public void setMyFavoriteSeason(Season myFavoriteSeason) {
+    void setMyFavoriteSeason(Season myFavoriteSeason) {
         this.myFavoriteSeason = myFavoriteSeason;
     }
 }
